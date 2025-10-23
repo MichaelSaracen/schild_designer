@@ -1,0 +1,38 @@
+{
+  "schild_konfiguration": {
+    "abmessungen": {
+      "breite_mm": 140,
+      "hoehe_mm": 90
+    },
+    "design": {
+      "hintergrund_farbe": "#f2f2f2",
+      "ecken_radius_mm": 10,
+      "rahmen_farbe": "#5454547A",
+      "rahmen_staerke_mm" : 0,
+      "oberflaeche": "matt",
+      "bild": ""
+    },
+    "material": {
+      "typ": "alu_dibond",
+      "staerke_mm": 3
+    },
+    "bohrloecher": {
+      "anzahl": 0,
+      "durchmesser_mm": 10,
+      "position": "ecken",
+      "randabstand_mm": 4
+    },
+    "druckspezifikation": {
+      "dpi_aufloesung": 300,
+      "druckfarben_deckend": true,
+      "farbprofil": "CMYK",
+      "beschnitt_mm": 2
+    },
+    "sicherheit": {
+      "mindest_textgroesse_mm": 5,
+      "sicherheitsabstand_rand_mm": 5
+    }
+  }
+
+}
+

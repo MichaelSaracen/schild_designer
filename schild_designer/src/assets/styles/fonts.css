@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'California Signature';
+    src: url('public/fonts/CalifornianSignature/CalifornianSignature.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Great Day Personal Use';
+    src: url('public/fonts/GreatDay/GreatDayPersonalUse.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Great Day Personal Use';
+    src: url('public/fonts/GreatDay/GreatDayBoldPersonalUse.ttf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelloKetta';
+    src: url('public/fonts/HelloKetta/HelloKetta.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'HomeVideo';
+    src: url('public/fonts/HomeVideo/HomeVideo-Bold.ttf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HomeVideo';
+    src: url('public/fonts/HomeVideo/HomeVideo-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Matrixtype';
+    src: url('public/fonts/Matrixtype/Matrixtype.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Matrixtype';
+    src: url('public/fonts/Matrixtype/Matrixtype-Bold.ttf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Queensides';
+    src: url('public/fonts/Queensides/Queensides-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Queensides';
+    src: url('public/fonts/Queensides/Queensides-Light.ttf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Queensides';
+    src: url('public/fonts/Queensides/Queensides-Medium.ttf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Vegur';
+    src: url('public/fonts/Vegur/Vegur-Regular.ttf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vegur';
+    src: url('public/fonts/Vegur/Vegur-Light.ttf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vegur';
+    src: url('public/fonts/Vegur/Vegur-Bold.ttf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tenderness';
+    src: url("public/fonts/Tenderness/Tenderness.ttf");
+    font-weight: 400;
+    font-style: normal;
+}

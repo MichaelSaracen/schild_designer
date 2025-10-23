@@ -1,0 +1,76 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+    --white: #ffffff;
+    --white-soft: #f8f8f8;
+    --white-mute: #f2f2f2;
+    --text-normal: #d0d0d0;
+    --text-normal-darker: rgba(208, 208, 208, 0.85);
+    --text-dark: rgba(208, 208, 208, 0.5);
+    --black100: #141414;
+    --black200: #1c1c1c;
+    --black300: #1f1f1f;
+
+    --black-hover: #212121;
+    --black-checked: #262626;
+
+    --black-hover-lighter: #292929;
+    --black-checked-lighter: #303030;
+
+    --black-hover-lighter200: #333333;
+
+    --border-color: rgba(208, 208, 208, 0.075);
+
+    --accent: #2384d5;
+    --accent-hover: #2172b7;
+    --accent-op: rgba(34, 133, 214, 0.25);
+    --border: #343434;
+    --green: #4fa04e;
+    --blue: #3f77f0;
+    --cyan: #0183bb;
+    --magenta: #a526a3;
+    --magenta-op: rgba(166, 38, 164, 0.25);
+    --yellow: #bf8301;
+    --orange: #940d3c;
+    --red: #c81142;
+
+    --border-radius-small: 4px;
+    --border-radius-medium: 8px;
+    --border-radius-large: 16px;
+    --shadow-black: 0 0 10px black;
+}
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--white-mute);
+  background: var(--black100);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
